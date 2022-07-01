@@ -15,3 +15,7 @@
 		</td>
 	</tr>
 </table>
+
+\
+Profile page:  
+[![Image of https://github.com/viablu/my-profile-views-counter](https://github.com/viablu/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/viablu/my-profile-views-counter)
