@@ -18,4 +18,5 @@
 
 \
 Profile page:  
-[![Image of https://github.com/viablu/my-profile-views-counter](https://github.com/viablu/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/viablu/my-profile-views-counter)
+[![Image of https://github.com/viablu/my-profile-views-counter](https://github.com/viablu/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/viablu/my-profile-views-counter)  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=viablu.visitor-badge)
