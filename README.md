@@ -21,4 +21,4 @@ Profile page:
 [![Image of https://github.com/viablu/my-profile-views-counter](https://github.com/viablu/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/viablu/my-profile-views-counter)  
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=viablu.visitor-badge)  
 ![Visitor Count](https://profile-counter.glitch.me/viablu/count.svg)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviablu&count_bg=%23007EC6&title_bg=%23555555&icon=apachecassandra.svg&icon_color=%23C0FF00&title=Views+daily%2Ftotal&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviablu&count_bg=%23007EC6&title_bg=%23555555&icon=apachecassandra.svg&icon_color=%23C0FF00&title=Views%20daily%20%2F%20total&edge_flat=false)](https://hits.seeyoufarm.com)
